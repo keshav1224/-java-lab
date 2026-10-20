@@ -1,0 +1,10 @@
+target/
+*.class
+*.war
+*.jar
+!swing-admin/target/swing-admin-jar-with-dependencies.jar
+.idea/
+*.iml
+.vscode/
+*.bak
+logs/

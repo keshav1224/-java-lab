@@ -1,0 +1,6 @@
+body { font-family: 'Segoe UI', system-ui, sans-serif; }
+.product-card { transition: transform .15s ease, box-shadow .15s ease; }
+.product-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,.1); }
+.product-img { height: 190px; object-fit: cover; }
+.navbar-brand { letter-spacing: .3px; }
+.table td, .table th { vertical-align: middle; }
